@@ -5,7 +5,6 @@ class AvatarInitials extends Component {
 	static defaultProps = {
 		name: "",
 		className: '',
-		style: {},
 		bgColor: "#000",
 		fgColor: "#fff",
 		rounded: true
